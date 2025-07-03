@@ -18,3 +18,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sulaiman-yahya-ba496313a/)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@sulaiman.yahya)
 [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SulaimanYahya03)
+
+##### My Git Stats
+![Sulaiman GitHub stats](https://github-readme-stats.vercel.app/api?username=SulaimanYahya&show_icons=true&theme=transparent)
