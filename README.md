@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @SulaimanYahya
-- 👀 I am interested in the PHP programming language
-- 🌱 I'm learning the java programming language
-- 💞️ I’m looking to collaborate on GitHub
-- 📫 How to reach me (E-mail: sulaiman.yahya03@gmail.com)
+## Hello World! I'm Sulaiman Yahya
+- 🌱 I'm learning the javascript programming language
+- 👀 I'm interested in the PHP programming language ([**Codeigniter**](https://www.codeigniter.com) & [**Laravel**](https://laravel.com/))
