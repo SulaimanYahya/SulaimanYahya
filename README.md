@@ -21,3 +21,9 @@
 
 ##### My Git Stats
 ![Sulaiman GitHub stats](https://github-readme-stats.vercel.app/api?username=SulaimanYahya&show_icons=true&theme=chartreuse-dark)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SulaimanYahya/SulaimanYahya/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SulaimanYahya/SulaimanYahya/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SulaimanYahya/SulaimanYahya/output/pacman-contribution-graph.svg">
+</picture>
