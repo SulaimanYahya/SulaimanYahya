@@ -20,4 +20,4 @@
 [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SulaimanYahya03)
 
 ##### My Git Stats
-![Sulaiman GitHub stats](https://github-readme-stats.vercel.app/api?username=SulaimanYahya&show_icons=true&theme=transparent)
+![Sulaiman GitHub stats](https://github-readme-stats.vercel.app/api?username=SulaimanYahya&show_icons=true&theme=gruvbox)
