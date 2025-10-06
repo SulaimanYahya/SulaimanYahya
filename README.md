@@ -1,6 +1,6 @@
 ![banner](img/github-header-image2.png)
-- 🌱 I'm learning the javascript programming language ([**Vue.js**](https://vuejs.org))
-- 👀 I'm interested in the PHP programming language ([**Codeigniter**](https://www.codeigniter.com) & [**Laravel**](https://laravel.com/))
+- 👨‍🏭 I'm learning the javascript programming language ([**Vue.js**](https://vuejs.org))
+- 💻 I'm interested in the PHP programming language ([**Codeigniter**](https://www.codeigniter.com), [**Laravel**](https://laravel.com/)), [**Livewire**](https://livewire.laravel.com/))
 
 ##### Skills
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
