@@ -20,7 +20,6 @@
 [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SulaimanYahya03)
 
 ##### My Git Stats
-![Sulaiman GitHub stats](https://github-readme-stats.vercel.app/api?username=SulaimanYahya&show_icons=true&theme=chartreuse-dark)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SulaimanYahya/SulaimanYahya/output/pacman-contribution-graph-dark.svg">
